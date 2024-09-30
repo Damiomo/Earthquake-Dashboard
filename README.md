@@ -7,7 +7,7 @@
 ## Description
 This dashboard provides the world's map with recent earthquakes magnitude, depth, date, time and location.
 
-![app_image](earquakes.png)
+![app_image](earthquakes.png)
 
 ## Table of Contents
 - [Installation](#installation)
